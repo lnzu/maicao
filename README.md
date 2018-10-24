@@ -21,9 +21,6 @@
 1. 标签云
 ![](http://maicao.fun/usr/themes/maicao/preview/categery.jpg)
 
-2. 网址导航
-![](http://maicao.fun/usr/themes/maicao/preview/guide.jpg)
-
 
 2. 网址导航
 ![](http://maicao.fun/usr/themes/maicao/preview/guide.jpg)
