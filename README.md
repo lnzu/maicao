@@ -6,6 +6,8 @@
 由于平时需要上课没多大时间，目前主题有很多需要完善的地方，后续慢慢改进。欢迎下载使用。
 ### 主题特性
 1. 界面简洁
+标签云
+![]()
 2. 使用hilightjs进行代码高亮
 3. 代码块顺滑滑动
 4. 自带可自定义网址导航页面
@@ -15,4 +17,16 @@
 3. 关于评论系统暂时不加
 4. 自定义导航页面请直接修改**guide/index.html**。按格式增删。
 有任何问题请联系QQ:[2464869577](2464869577)
-![](http://maicao.fun/usr/themes/maicao/screenshot.jpg)
+### 页面预览
+1. 标签云
+![](http://maicao.fun/usr/themes/maicao/preview/categery.jpg)
+
+2. 网址导航
+![](http://maicao.fun/usr/themes/maicao/preview/guide.jpg)
+
+
+2. 网址导航
+![](http://maicao.fun/usr/themes/maicao/preview/guide.jpg)
+
+3 网址导航
+![](http://maicao.fun/usr/themes/maicao/preview/index.jpg)
