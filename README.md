@@ -1,5 +1,7 @@
 # maicao 一款Typecho主题
 ### [主题预览](http://maicao.fun)
+<!--more-->
+### [项目地址](https://github.com/lnzu/maicao)
 ### 关于更新
 由于平时需要上课没多大时间，目前主题有很多需要完善的地方，后续慢慢改进。欢迎下载使用。
 ### 主题特性
@@ -13,3 +15,4 @@
 3. 关于评论系统暂时不加
 4. 自定义导航页面请直接修改**guide/index.html**。按格式增删。
 有任何问题请联系QQ:[2464869577](2464869577)
+![](http://maicao.fun/usr/themes/maicao/screenshot.jpg)
