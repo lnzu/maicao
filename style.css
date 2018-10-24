@@ -38,9 +38,9 @@ img#dog {
 
 header {
   width: 100%;
-  background-color: #171f26;
   text-align: center;
   padding: 0px;
+  background-image: linear-gradient( 135deg, #3C8CE7 10%, #00EAFF 100%);
 }
 
 img#icon {
@@ -56,7 +56,7 @@ img#icon {
 }
 
 div#site_info {
-  background-color: #283542;
+  background-color: rgba(0,0,0,.2);
   margin-left: 10px;
   margin-right: 10px;
   font-size: .9em;
@@ -81,7 +81,7 @@ div#site_info {
 }
 
 #header_menu a:hover {
-  color: red;
+  color: #444444;
 }
 
 div#list_content {
@@ -213,10 +213,12 @@ div#post_content {
 		
 /*Archives 搜索结果展示页面*/
 .search-no {
-  height: 150px;
-  line-height: 150px;
+  height: 300px;
+  line-height: 300px;
   font-size: 1em;
   text-align: center;
+  color: #444444;
+  
 }
 
 .search {

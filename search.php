@@ -25,7 +25,7 @@
   </div>
 
 <?php else: ?>
- <div class="search-no">没有找到相关页面</div>
+ <div class="search-no">没有找到相关文章</div>
 <?php endif; ?>
 		
 		<!-- 上一页都下一页-->
